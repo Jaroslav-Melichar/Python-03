@@ -1,4 +1,4 @@
 s="1456";
 intlength=len(s);
 slicedInt=s[intlength::-1];
-print (slicedInt);
+print ("Obrácené číslice:",s," je po brácení:",slicedInt);
