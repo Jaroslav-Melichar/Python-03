@@ -1,3 +1,3 @@
-txt = "Řetězce se nechovají jako seznamy"
-x = txt.replace("nechovají", "chovají")
+text = "Řetězce se nechovají jako seznamy"
+x = text.replace("nechovají", "chovají")
 print(x)
